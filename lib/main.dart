@@ -14,7 +14,7 @@ class StudentBankingApp extends StatelessWidget {
         useMaterial3: true,
         scaffoldBackgroundColor: const Color(
           0xFFF1F4F8,
-        ), // ইমেজের মতো হালকা গ্রে ব্যাকগ্রাউন্ড
+        ),
       ),
       home: const MainScreen(),
     );
