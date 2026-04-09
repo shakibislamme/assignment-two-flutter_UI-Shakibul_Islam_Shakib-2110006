@@ -88,7 +88,7 @@ class Page3 extends StatelessWidget {
                             ),
                           ),
                           Text(
-                            "SHAKIBUL ISLAM Shakib",
+                            "SHAKIBUL ISLAM SHAKIB",
                             style: TextStyle(
                               color: Colors.white,
                               fontWeight: FontWeight.bold,
